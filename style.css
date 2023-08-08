@@ -39,7 +39,7 @@ button {
     transition: 0.2s ease-in-out;
   }
   
-input.searchbar {
+input.search-bar {
         border: none;
         outline: none;
         padding: 0.4em 1em;
@@ -47,7 +47,7 @@ input.searchbar {
         background: #7c7c7c2b;
         color:white;
   }
-  input.searchbar:hover{
+  input.search-bar:hover{
     border: none;
     outline: none;
     padding: 0.4em 1em;
